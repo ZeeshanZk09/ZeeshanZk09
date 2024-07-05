@@ -1,12 +1,7 @@
-- 👋 Hi, I’m M Zeeshan Khan
-- 👀 I’m interested in giving IT services
-- 🌱 I’m currently learning Cloud Applied GenAI Engineering
-- 💞️ I’m looking to collaborate on IT related projects
-- 📫 How to reach me => On WhatsApp 03343489702
-- 😄 Pronouns: None
-- ⚡ Fun fact: None
+Zeeshan Khan, Founder & Lead Instructor
 
-<!---
-ZeeshanZk09/ZeeshanZk09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I'm Zeeshan Khan, the founder and lead instructor at Apna Campus. With a diverse educational background and a passion for programming, I am excited to guide you through the world of MERN Stack development.
+
+My Journey
+
+I began my academic journey in Pre-Medical, but my fascination with technology led me to pursue Pre-Engineering. I have since dedicated myself to mastering programming skills and AI, continuously learning and growing in this ever-evolving field.
