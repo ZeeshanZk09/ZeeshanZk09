@@ -1,8 +1,4 @@
-### Crafting Your Impressive GitHub Profile Description
-
-Here's a detailed and engaging GitHub profile description tailored for a frontend developer with one year of experience, incorporating emojis and images:
-
-**Headline:** 🎨 **Frontend Maestro | Crafting Stunning User Interfaces 🌐**
+### 🎨 **React NextJS | Typescript |Frontend Developer 🌐**
 
 **About Me:**
 
