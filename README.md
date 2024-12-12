@@ -29,4 +29,4 @@ Hey there! 👋 I'm **M Zeeshan Khan*, a passionate frontend developer with a ye
 
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to chat about tech! 
 
-https://www.linkedin.com/in/muhammad-zeeshan-khan-96478528b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+https://www.linkedin.com/in/muhammad-zeeshan-khan-96478528b 
