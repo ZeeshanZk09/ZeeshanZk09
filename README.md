@@ -6,7 +6,7 @@ Here's a detailed and engaging GitHub profile description tailored for a fronten
 
 **About Me:**
 
-Hey there! 👋 I'm **M Zeeshan Khan*, a passionate frontend developer with a year of experience in building captivating user interfaces. 💻 I love bringing designs to life, creating intuitive and visually appealing web experiences. 
+Hey there! 👋 I'm **M Zeeshan Khan**, a passionate frontend developer with a year of experience in building captivating user interfaces. 💻 I love bringing designs to life, creating intuitive and visually appealing web experiences. 
 
 ## Skills:
 
