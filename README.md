@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a Frontend Developer at Karsaaz EBS PVT LTD<br>I'm learning Agentic AI Engineer.<br>I'm skilled at:<br>        JavaScript<br>        Nextjs<br>        Python<br>        PostgreSQL<br>        SQL<br>I want to start my career as a AI Engineer/ Gen AI Engineer/ AI Developer as soon as possile.<br><br>
+I'm currently working as a Frontend Developer at Karsaaz EBS PVT LTD<br>I'm learning Agentic AI Engineer.<br>&nbsp;I'm skilled at:<br> &nbsp;&nbsp;&nbsp;       JavaScript<br> &nbsp;&nbsp;&nbsp;       Nextjs<br> &nbsp;&nbsp;&nbsp;       Python<br> &nbsp;&nbsp;&nbsp;       PostgreSQL<br> &nbsp;&nbsp;&nbsp;       SQL<br>I want to start my career as a AI Engineer/ Gen AI Engineer/ AI Developer as soon as possile.<br><br>
 
 
 ## 🌐 Socials:
@@ -21,7 +21,7 @@ I'm currently working as a Frontend Developer at Karsaaz EBS PVT LTD<br>I'm lear
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ZeeshanZk09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-(https://github.com/ZeeshanZk09/resellify)
+### (https://github.com/ZeeshanZk09/resellify)
 ---
 [![](https://visitcount.itsvg.in/api?id=ZeeshanZk09&icon=0&color=0)](https://visitcount.itsvg.in)
 
