@@ -48,10 +48,6 @@ I'm a **Frontend Developer** at **Karsaaz EBS PVT LTD**, actively leveling up in
 
 ---
 
-## 🏆 GitHub Trophies
-
----
-
 ## 💻 Full Tech Stack
 
 <div align="center">
@@ -124,16 +120,6 @@ I'm a **Frontend Developer** at **Karsaaz EBS PVT LTD**, actively leveling up in
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=ZeeshanZk09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
