@@ -6,7 +6,7 @@
 
 *Building intelligent interfaces, one commit at a time.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zeeshan-khan-96478528b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-zeeshan-khan-96478528b/)
 [![Profile Views](https://visitcount.itsvg.in/api?id=ZeeshanZk09&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
