@@ -50,12 +50,6 @@ I'm a **Frontend Developer** at **Karsaaz EBS PVT LTD**, actively leveling up in
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ZeeshanZk09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
 ---
 
 ## 💻 Full Tech Stack
