@@ -139,7 +139,7 @@ I'm a **Frontend Developer** at **Karsaaz EBS PVT LTD**, actively leveling up in
 
 <div align="center">
 
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=ZeeshanZk09&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ZeeshanZk09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
