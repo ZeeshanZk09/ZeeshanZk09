@@ -34,18 +34,19 @@ I'm a **Frontend Developer** at **Karsaaz EBS PVT LTD**, actively leveling up in
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <!-- Main Stats: shows icons, GitHub-style rank badge, stars, commits, PRs, issues, and contributions -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeeshanZk09&theme=dark&hide_border=false&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeeshanZk09&theme=dark&hide_border=false&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true)
 
 <!-- Streak Stats -->
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=ZeeshanZk09&theme=dark&hide_border=false)
 
 <!-- Top Languages: expanded to show more langs, excludes non-code files -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanZk09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanZk09&theme=dark&hide_border=false&count_private=true&layout=compact&langs_count=8&hide=html,css)
 
 </div>
 
